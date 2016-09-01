@@ -16,7 +16,7 @@ The latest stable release is **{{ site.data.latestrelease.version }}**. See the 
 
 Source code is available on [GitHub](https://github.com/mono/monodevelop) or as a [Tarball](http://download.mono-project.com/sources/monodevelop/).
 
-For Mac and Windows, you can download **Xamarin Studio** which is a bundle of MonoDevelop along with Xamarin iOS/Android plugins and branding. Note that a [Xamarin license](https://store.xamarin.com) is only required if you develop iOS/Android projects, all other project types are free without restrictions.
+For Mac, you can download **Xamarin Studio** which is a bundle of MonoDevelop along with Xamarin iOS/Android plugins and branding. Note that a [Xamarin license](https://store.xamarin.com) is only required if you develop iOS/Android projects, all other project types are free without restrictions.
 
 <hr/>
 
@@ -27,17 +27,6 @@ To install this release, you also need to install the following packages:
 - Mono + GTK#: [Download](http://www.mono-project.com/download/)
 
 <a href="{{ site.data.latestrelease.monodevelop_mac_url }}" class="button radius"><i class="fa fa-download"></i> Download Xamarin Studio</a>
-
-<hr/>
-
-<h3 id="win"><i class="fa fa-windows"></i> Windows</h3>
-
-To install this release, you also need to install the following packages:
-
-- .NET Framework 4.5: [Download](http://go.microsoft.com/fwlink/p/?LinkId=397703)
-- GTK# for .NET: [Download from mono-project.com](http://www.mono-project.com/download/#download-win)
-
-<a href="{{ site.data.latestrelease.monodevelop_windows_url }}" class="button radius"><i class="fa fa-download"></i> Download Xamarin Studio</a>
 
 <hr/>
 
